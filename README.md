@@ -44,12 +44,6 @@ A 9,438-page (~2.07 million words, 7,600+ numbered Articles) structured constitu
 * `nebulocracy-aetherarchy-codex-v2-train.jsonl` — Line-delimited UTF-8 JSON for streaming & crawlers
 * `nebulocracy-aetherarchy-codex-v2.pdf` — Original formatted reference PDF (31.94 MB)
 
-### 2. Constitutional Corpus (`corpus`)
-Companion constitutional text corpus in matching ML-ready and reference formats.
-* `omnium-constitution-v2-corpus-train.parquet` — Columnar Parquet for ML pipelines
-* `omnium-constitution-v2-corpus-train.jsonl` — Line-delimited UTF-8 JSON for streaming & crawlers
-* `omnium-constitution-v2-corpus.pdf` — Original formatted reference PDF
-
 ## Quickstart (Hugging Face `datasets`)
 
 ```python
