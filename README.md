@@ -34,7 +34,7 @@ license: cc0-1.0
 **Organization:** OmniumGovernance  
 **License:** CC0 1.0 Universal (Public Domain Dedication)
 
-A large-scale, structured speculative-governance and constitutional worldbuilding dataset in English, packaged in **Apache Parquet**, **JSONL (UTF-8)**, and **PDF** formats for **long-context NLP**, **retrieval-augmented generation (RAG)**, **hierarchical document parsing**, and **language model pretraining**.
+A large-scale, structured concept level theoretical-governance and constitutional worldbuilding dataset in English, packaged in **Apache Parquet**, **JSONL (UTF-8)**, and **PDF** formats for **long-context NLP**, **retrieval-augmented generation (RAG)**, **hierarchical document parsing**, and **language model pretraining**.
 
 ## Collections & Files
 
