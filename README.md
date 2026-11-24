@@ -49,10 +49,11 @@ Recursive Simulation & AGI Safeguards: Incorporates three recursive policy-valid
 
 Reading & Research Utility:
 
-Structured for both human reading and automated ingestion, featuring numbered chapters, articles, ranks, institutional registers, and cross-referenced governance mandates.
-Suited for Constitutional AI and value-alignment research, multi-hop legal and institutional reasoning, and ultra-long-context LLM evaluation across millions of words of interconnected normative and structural text.
+​Structured for both human reading and automated ingestion, featuring numbered chapters, articles, ranks, institutional registers, and cross-referenced governance mandates. Most readers are not going to sit down and read 8,000+ pages from cover to cover—instead, you can load the constitution into Gemini, ChatGPT, or another capable AI model and have the AI explain, summarize, and answer questions about it for you.
 
-"Through Reason, Unity; Through Unity, Flourishing."
+​Suited for Constitutional AI and value-alignment research, multi-hop legal and institutional reasoning, and ultra-long-context LLM evaluation across millions of words of interconnected normative and structural text.
+
+​"Through Reason, Unity; Through Unity, Flourishing."
 
 ## Collections & Files
 
