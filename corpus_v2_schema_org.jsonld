@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "omnium constitutional corpus v2",
+  "description": "Structured constitutional corpus extracted from omnium_constitutional_corpus_v2.pdf containing 9471 pages and 19352101 characters.",
+  "version": "2.0",
+  "dateModified": "2026-11-27",
+  "encodingFormat": "application/jsonl",
+  "variableMeasured": [
+    "source",
+    "page",
+    "text"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "omnium_constitutional_corpus_v2.pdf",
+      "encodingFormat": "application/pdf",
+      "contentSize": "34496686 B"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "omnium_constitutional_corpus_v2.jsonl",
+      "encodingFormat": "application/x-ndjson",
+      "contentSize": "21120589 B"
+    }
+  ]
+}
