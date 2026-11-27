@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Nebulocracy Aetherarchy Omnium Constitution v2 Master Codex",
+  "description": "Structured constitutional corpus extracted from Nebulocracy_Aetherarchy_Omnium_Constitution_v2_Master_Codex.pdf containing 10852 pages and 19447822 characters.",
+  "version": "2.0",
+  "dateModified": "2026-11-27",
+  "encodingFormat": "application/jsonl",
+  "variableMeasured": [
+    "source",
+    "page",
+    "text"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Nebulocracy_Aetherarchy_Omnium_Constitution_v2_Master_Codex.pdf",
+      "encodingFormat": "application/pdf",
+      "contentSize": "44915129 B"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Nebulocracy_Aetherarchy_Omnium_Constitution_v2_Master_Codex.jsonl",
+      "encodingFormat": "application/x-ndjson",
+      "contentSize": "21735823 B"
+    }
+  ]
+}
